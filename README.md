@@ -1,15 +1,7 @@
 ## xiuno_github_login
 
-Xiuno BBS 4.x 插件
+Xiuno BBS 4.x 插件 - GitHub登录
 ------------------
-
-
-## GitHub登录
-
-插件版本及介绍：https://www.skiy.net/201804025057.html
-插件地址：http://plugin.xiuno.com/plugin-read-skiy_wx_login.htm
-插件说明：http://bbs.xiuno.com/thread-21280.htm
-
 
 ## 设置 OAuth Apps
 - https://github.com/settings/developers
