@@ -1,0 +1,11 @@
+<?php
+
+$bind_github = db_find_one('xiuno_github_login', array('uid'=>$uid));
+?>
+<br><span class="text-muted">GitHub状态：</span>
+
+<?php if (!empty($bind_github)) {?>
+<a href='github_login-index-home.htm?unbind' id="unbind-github">解绑</a>
+<?php } else {?>
+<a href='github_login-index-home.htm'>申请绑定</a>
+<?php } ?>

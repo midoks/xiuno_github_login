@@ -1,0 +1,1 @@
+case 'github_login': include APP_PATH.'plugin/xiuno_github_login/route/github_login.php'; break;
