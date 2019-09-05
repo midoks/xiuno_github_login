@@ -1,6 +1,6 @@
 {
     "name": "GITHUB登陆",
-    "brief": "GITHUB一键登陆。已注册用户绑定GITHUB。",
+    "brief": "GITHUB一键登陆。已注册用户绑定,解绑GITHUB账户。",
     "version": "1.0",
     "bbs_version": "4.0.0",
     "installed": 1,
