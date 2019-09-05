@@ -1,4 +1,3 @@
-## xiuno_github_login
 
 Xiuno BBS 4.x 插件 - GitHub登录
 ------------------
