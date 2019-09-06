@@ -12,6 +12,15 @@ Client ID
 Client Secret
 ```
 
+### 截图
+[![screenshot_1.png](/screenshot/screenshot_1.png)](/screenshot/screenshot_1.png)
+
+[![screenshot_2.png](/screenshot/screenshot_2.png)](/screenshot/screenshot_2.png)
+
+[![screenshot_3.png](/screenshot/screenshot_3.png)](/screenshot/screenshot_3.png)
+
+[![screenshot_4.png](/screenshot/screenshot_4.png)](/screenshot/screenshot_4.png)
+
 ### 注意
 ```
 卸载插件时，会删除GitHub与用户UID绑定的表。如果有用户是直接使用微信登录（新建用户），则会导致该用户无法再正常登录。
