@@ -13,13 +13,13 @@ Client Secret
 ```
 
 ### 截图
-[![screenshot_1.png](/screenshot/screenshot_1.png)](/screenshot/screenshot_1.png)
+[![screenshot-1.png](/screenshot/screenshot-1.png)](/screenshot/screenshot-1.png)
 
-[![screenshot_2.png](/screenshot/screenshot_2.png)](/screenshot/screenshot_2.png)
+[![screenshot-2.png](/screenshot/screenshot-2.png)](/screenshot/screenshot-2.png)
 
-[![screenshot_3.png](/screenshot/screenshot_3.png)](/screenshot/screenshot_3.png)
+[![screenshot-3.png](/screenshot/screenshot-3.png)](/screenshot/screenshot-3.png)
 
-[![screenshot_4.png](/screenshot/screenshot_4.png)](/screenshot/screenshot_4.png)
+[![screenshot-4.png](/screenshot/screenshot-4.png)](/screenshot/screenshot-4.png)
 
 ### 注意
 ```
