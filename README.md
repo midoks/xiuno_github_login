@@ -3,6 +3,7 @@ Xiuno BBS 4.x 插件 - GitHub登录
 ------------------
 
 - http://plugin.xiuno.com/plugin-read-xiuno_github_login.htm
+- https://bbs.xiuno.com/thread-151930.htm
 
 ### 设置 OAuth Apps
 - https://github.com/settings/developers
